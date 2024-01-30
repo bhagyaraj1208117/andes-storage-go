@@ -1,9 +1,9 @@
 package monitoring
 
 import (
-	"github.com/bhagyaraj1208117/andes-abc-1/core"
-	"github.com/bhagyaraj1208117/andes-abc-1/core/atomic"
-	logger "github.com/bhagyaraj1208117/andes-logger-xyz"
+	"github.com/bhagyaraj1208117/andes-core-go/core"
+	"github.com/bhagyaraj1208117/andes-core-go/core/atomic"
+	logger "github.com/bhagyaraj1208117/andes-logger-go"
 )
 
 var log = logger.GetOrCreate("storage")

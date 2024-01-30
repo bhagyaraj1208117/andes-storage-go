@@ -1,9 +1,9 @@
-github.com/bhagyaraj1208117/andes-abc-1 v0.0.0-20240116110639-33aa4ec09eec h1:SsjVsezMc9p9y3KfQWLrORxoNsT9K0GizhouuugeZ+E=
-github.com/bhagyaraj1208117/andes-abc-1 v0.0.0-20240116110639-33aa4ec09eec/go.mod h1:qn3QoOk8nOlxjwmYrlIN9e3/ewtLDrX3fzVmBHvzIe4=
-github.com/bhagyaraj1208117/andes-logger-xyz v0.0.0-20240117091325-c86a73c1050e h1:nFu5TOVYfdyQchncRRg7k/RA3omoi7gBIDRPBU1vAFs=
-github.com/bhagyaraj1208117/andes-logger-xyz v0.0.0-20240117091325-c86a73c1050e/go.mod h1:t/buGPGI9Y3cIeYM6UW3kGH/guAvDfaFUJcLHhqEaOc=
-github.com/bhagyaraj1208117/concurrent-map-abc v0.0.0-20240118081200-357353e7b471 h1:SKjwA39t/gH22bX+bF08lMQJU3J7muB3JwV5oyeRXwY=
-github.com/bhagyaraj1208117/concurrent-map-abc v0.0.0-20240118081200-357353e7b471/go.mod h1:6YCqKhK8KcQWglh5UCcrNypTIs5JnPw4moZyJXwGxrE=
+github.com/bhagyaraj1208117/andes-core-go v1.2.13 h1:WXVUjdAv/AS7LVWqLqvj90EOaO+s1lclZwHLn1D5QaQ=
+github.com/bhagyaraj1208117/andes-core-go v1.2.13/go.mod h1:3yndp0r2Nxj+7S1gdsMxa5Dnu6oIBXWHnjmRlLivrZM=
+github.com/bhagyaraj1208117/andes-logger-go v1.0.13 h1:NpDDoOkvzOknwbI+EjWwSMcrdraYjnxrNXggDxOhk3g=
+github.com/bhagyaraj1208117/andes-logger-go v1.0.13/go.mod h1:Yde7vKWooIKpXTcz8f28yOU2HjcZkbV1SI/OUtHo6T0=
+github.com/bhagyaraj1208117/concurrent-map v0.1.4 h1:uHhjzEjec0OUEOcUpLb9AOSt8XgTU8WYMnU7Ny87S1U=
+github.com/bhagyaraj1208117/concurrent-map v0.1.4/go.mod h1:B+vSakpVuM5scV04Nem/hv5J21rwHa4uzl660z12zs8=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/denisbrodbeck/machineid v1.0.1 h1:geKr9qtkB876mXguW2X6TU4ZynleN6ezuMSRhl4D7AQ=

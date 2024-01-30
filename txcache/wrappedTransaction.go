@@ -3,7 +3,7 @@ package txcache
 import (
 	"bytes"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/data"
+	"github.com/bhagyaraj1208117/andes-core-go/data"
 )
 
 const processFeeFactor = float64(0.8) // 80%

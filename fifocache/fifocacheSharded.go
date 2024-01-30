@@ -3,9 +3,9 @@ package fifocache
 import (
 	"sync"
 
-	logger "github.com/bhagyaraj1208117/andes-logger-xyz"
+	logger "github.com/bhagyaraj1208117/andes-logger-go"
 	"github.com/bhagyaraj1208117/andes-storage-go/types"
-	cmap "github.com/bhagyaraj1208117/concurrent-map-abc"
+	cmap "github.com/bhagyaraj1208117/concurrent-map"
 )
 
 var _ types.Cacher = (*FIFOShardedCache)(nil)

@@ -3,7 +3,7 @@ package common
 import (
 	"errors"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core"
+	"github.com/bhagyaraj1208117/andes-core-go/core"
 )
 
 // ErrNilPersister is raised when a nil persister is provided

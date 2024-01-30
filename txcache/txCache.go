@@ -3,8 +3,8 @@ package txcache
 import (
 	"sync"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core/atomic"
-	"github.com/bhagyaraj1208117/andes-abc-1/core/check"
+	"github.com/bhagyaraj1208117/andes-core-go/core/atomic"
+	"github.com/bhagyaraj1208117/andes-core-go/core/check"
 	"github.com/bhagyaraj1208117/andes-storage-go/common"
 	"github.com/bhagyaraj1208117/andes-storage-go/monitoring"
 	"github.com/bhagyaraj1208117/andes-storage-go/types"

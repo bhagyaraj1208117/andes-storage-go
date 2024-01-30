@@ -1,7 +1,7 @@
 package txcachemocks
 
 import (
-	"github.com/bhagyaraj1208117/andes-abc-1/data"
+	"github.com/bhagyaraj1208117/andes-core-go/data"
 )
 
 // TxGasHandler -

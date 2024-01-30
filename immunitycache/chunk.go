@@ -4,7 +4,7 @@ import (
 	"container/list"
 	"sync"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core"
+	"github.com/bhagyaraj1208117/andes-core-go/core"
 	"github.com/bhagyaraj1208117/andes-storage-go/common"
 	"github.com/bhagyaraj1208117/andes-storage-go/types"
 )

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core/check"
+	"github.com/bhagyaraj1208117/andes-core-go/core/check"
 	"github.com/bhagyaraj1208117/andes-storage-go/types"
 )
 

@@ -3,7 +3,7 @@ package lrucache
 import (
 	"sync"
 
-	logger "github.com/bhagyaraj1208117/andes-logger-xyz"
+	logger "github.com/bhagyaraj1208117/andes-logger-go"
 	"github.com/bhagyaraj1208117/andes-storage-go/lrucache/capacity"
 	"github.com/bhagyaraj1208117/andes-storage-go/types"
 	lru "github.com/hashicorp/golang-lru"

@@ -7,7 +7,7 @@ import (
 	"sync"
 	"testing"
 
-	logger "github.com/bhagyaraj1208117/andes-logger-xyz"
+	logger "github.com/bhagyaraj1208117/andes-logger-go"
 	"github.com/bhagyaraj1208117/andes-storage-go/common"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

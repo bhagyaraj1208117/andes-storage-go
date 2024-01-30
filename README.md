@@ -1,2 +1,2 @@
 # andes-storage-go
-andes components for storage and caching
+andes-go components for storage and caching

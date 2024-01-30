@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	logger "github.com/bhagyaraj1208117/andes-logger-xyz"
+	logger "github.com/bhagyaraj1208117/andes-logger-go"
 	"github.com/bhagyaraj1208117/andes-storage-go/common"
 )
 

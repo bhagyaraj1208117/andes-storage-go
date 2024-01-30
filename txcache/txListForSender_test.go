@@ -4,7 +4,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/data/transaction"
+	"github.com/bhagyaraj1208117/andes-core-go/data/transaction"
 	"github.com/bhagyaraj1208117/andes-storage-go/testscommon/txcachemocks"
 	"github.com/stretchr/testify/require"
 )

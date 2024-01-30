@@ -3,7 +3,7 @@ package types
 import (
 	"time"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/storage"
+	"github.com/bhagyaraj1208117/andes-core-go/storage"
 )
 
 // Persister provides storage of data services in a database like construct

@@ -5,7 +5,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core/atomic"
+	"github.com/bhagyaraj1208117/andes-core-go/core/atomic"
 	"github.com/stretchr/testify/require"
 )
 

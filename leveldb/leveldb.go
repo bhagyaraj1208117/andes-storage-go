@@ -9,8 +9,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core"
-	logger "github.com/bhagyaraj1208117/andes-logger-xyz"
+	"github.com/bhagyaraj1208117/andes-core-go/core"
+	logger "github.com/bhagyaraj1208117/andes-logger-go"
 	"github.com/bhagyaraj1208117/andes-storage-go/common"
 	"github.com/bhagyaraj1208117/andes-storage-go/types"
 	"github.com/syndtr/goleveldb/leveldb"

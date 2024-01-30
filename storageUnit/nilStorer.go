@@ -1,7 +1,7 @@
 package storageUnit
 
 import (
-	storageCore "github.com/bhagyaraj1208117/andes-abc-1/storage"
+	storageCore "github.com/bhagyaraj1208117/andes-core-go/storage"
 	"github.com/bhagyaraj1208117/andes-storage-go/common"
 )
 

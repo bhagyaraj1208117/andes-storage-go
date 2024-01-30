@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core"
-	logger "github.com/bhagyaraj1208117/andes-logger-xyz"
+	"github.com/bhagyaraj1208117/andes-core-go/core"
+	logger "github.com/bhagyaraj1208117/andes-logger-go"
 )
 
 var log = logger.GetOrCreate("txcache")
